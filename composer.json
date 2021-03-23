@@ -1,0 +1,17 @@
+{
+    "name": "ariferreira/site_receita",
+    "description": "arieltonferreira<arielton.fsantos@gmail.com>",
+    "authors": [
+        {
+            "name": "Arielton Santos",
+            "email": "arielton.fsantos@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+
+    }
+}
