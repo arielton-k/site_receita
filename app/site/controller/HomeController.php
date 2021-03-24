@@ -5,6 +5,10 @@
     {
         public function __construct()
         {
-            echo 'teeeee';
+           
+        }
+
+        public function index(){
+            echo 'index Home';
         }
     }
